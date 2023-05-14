@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌇 : **Be the change you wish to see in the world.**   
+- 📫 : **In there, you can found me!**
