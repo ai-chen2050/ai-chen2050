@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 - 🌇 : **Be the change you wish to see in the world.**   
-- 📫 : **In there, you can found me!**
+- 📫 : **In [there](https://ai-chen2050.github.io/), you can found me!**
