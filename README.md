@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 : **In [there](https://ai-chen2050.github.io/), you can found me!**
 - ☕ : If you want to buy me a [coffee](https://www.buymeacoffee.com/blakechan).
 
-<a href="https://www.buymeacoffee.com/blakechan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/blakechan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 160px !important;" ></a>
